@@ -1,0 +1,11 @@
+name: pasajeros-local-env
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+  - pip
+  - pip:
+    - datetime
+    - holidays_co
